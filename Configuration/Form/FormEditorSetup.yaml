@@ -19,8 +19,6 @@ TYPO3:
                                         25:
                                             identifier: 'NewsletterFinisher'
                                             editors:
-                                                __inheritances:
-                                                    10: 'TYPO3.CMS.Form.mixins.formElementMixins.BaseCollectionEditorsMixin'
                                                 100:
                                                     label: form_newsletter.header.label
                                                 # auth key
